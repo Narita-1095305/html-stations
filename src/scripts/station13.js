@@ -4,4 +4,4 @@ function getData() {
 
 // Arrowという文字列を返すarrowFunctionという名前のアロー関数を追加してください
 
-let arrowFunction=()=> "arrowFunction";
+let arrowFunction=()=> "Arrow";
