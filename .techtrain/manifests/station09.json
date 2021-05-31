@@ -1,8 +1,8 @@
+  
 {
   "name": "Station 09",
   "id": 9,
   "prepare": [
-    "yarn install",
     {
       "command": "yarn lite-server",
       "background": true
